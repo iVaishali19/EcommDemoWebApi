@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.Api", "Ecom.Api\Ecom.Api.csproj", "{4F3F4410-634B-47A6-84FB-9CC673C994EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.Services", "Ecom.Services\Ecom.Services.csproj", "{3EE6294C-94D2-4298-B369-E90E398273FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.Data", "Ecom.Data\Ecom.Data.csproj", "{3E382D34-FE44-4C41-A336-BC9A160224F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F3F4410-634B-47A6-84FB-9CC673C994EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3F4410-634B-47A6-84FB-9CC673C994EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3F4410-634B-47A6-84FB-9CC673C994EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3F4410-634B-47A6-84FB-9CC673C994EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE6294C-94D2-4298-B369-E90E398273FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE6294C-94D2-4298-B369-E90E398273FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE6294C-94D2-4298-B369-E90E398273FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE6294C-94D2-4298-B369-E90E398273FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E382D34-FE44-4C41-A336-BC9A160224F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E382D34-FE44-4C41-A336-BC9A160224F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E382D34-FE44-4C41-A336-BC9A160224F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E382D34-FE44-4C41-A336-BC9A160224F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {184F4C4B-974D-4E31-93AF-9B1F4E0F79A9}
+	EndGlobalSection
+EndGlobal
